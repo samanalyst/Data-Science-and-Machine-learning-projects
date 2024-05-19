@@ -2,13 +2,12 @@
 Thank you for considering contributing to the Data Science Projects repository! We appreciate your interest in improving and enhancing the content of this repository. To ensure a smooth collaboration, please review and follow the guidelines below when contributing.
 
 ## How to Contribute
-1. Fork the repository to your GitHub account.
-2. Create a new branch for your contributions.
-3. Make your changes, enhancements, or fixes in your branch.
-4. Test your changes to ensure they do not introduce any issues.
-5. Commit your changes with a clear and descriptive commit message.
-6. Push your changes to your forked repository.
-7. Submit a pull request to the main repository.
+1. Fork the repository.
+2. Clone the repository.
+3. Create a new branch.
+4. Make changes and push
+5. Submit a pull request to the main repository.
+
 ## Guidelines for Contributions
 - Before starting any work, it is recommended to check the existing issues and pull requests to see if the changes you intend to make are already being addressed.
 - If you plan to work on an existing issue, please comment on the issue to let others know that you are working on it to avoid duplication of efforts.
